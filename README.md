@@ -19,7 +19,7 @@ Building requires devkitpro, python 3, and a Legacy of Goku rom. Here's an examp
 $ cd dbzlegacyofwolves
 $ arm-none-eabi-gcc -mthumb-interwork -mthumb -specs=gba.specs src/main.s
 $ arm-none-eabi-objcopy -O binary a.out a.gba
-$ cp path/to/dbzrom.gba DBZL.gba
+$ cp /path/to/dbzrom.gba DBZL.gba
 $ python3 patch.py
 ```
 This will create a `final.gba` in the repository directory, which is the patched rom.
