@@ -12,3 +12,7 @@ Changes:
   * Boosted health of Raditz, Vegeta and Ginyu.
   * Changed bankrobber's health from 7000 to 800.
   * The last few levels are much easier to acquire.
+
+Changelog:
+  Version 1.1:
+    * Actually boost Raditz's health, oops.
