@@ -1,6 +1,6 @@
 # Dragon Ball Z: The Legacy of Not Dying to Wolves
 
-This is a hack of Dragon Ball Z: The Legacy of Goku that aims to balance the game's difficulty, fix bugs, and fix its flow.
+This is a hack of Dragon Ball Z: The Legacy of Goku that aims to balance the game's difficulty, fix bugs, and improve its flow.
 
 Changes:
   * Enemies only do a fraction of the damage they normally would, depending on how strong they are.
