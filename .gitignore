@@ -1,0 +1,11 @@
+*.out
+*.gba
+*.sav
+*.ss*
+*.png
+*.zip
+save
+disassembly
+normal/*.gba
+mode7/*.gba
+
